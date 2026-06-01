@@ -1,0 +1,20 @@
+*.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Node and npm
+node_modules/
+
+# Hardhat
+artifacts/
+cache/
+
+# Environment variables
+.env
+.env.dev
+.env.keys
+.env*
