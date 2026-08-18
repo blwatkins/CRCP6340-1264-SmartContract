@@ -1,3 +1,6 @@
+> [!CAUTION]
+> # This repository has been archived.
+
 # CRCP6340-1264 Smart Contract
 
 Implementation of the smart contract for CRCP 6340 - Creative Coding for Application Development; Summer 2026 term.
